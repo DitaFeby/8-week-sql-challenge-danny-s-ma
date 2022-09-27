@@ -1,10 +1,13 @@
 Business Task
+
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
 Entity Relationship Diagram
+
 ![image](https://user-images.githubusercontent.com/57255039/192538817-335767e6-d845-4ec8-b42d-410f0d4cadc1.png)
 
 Case Study Questions
+
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
 3. What was the first item from the menu purchased by each customer?
