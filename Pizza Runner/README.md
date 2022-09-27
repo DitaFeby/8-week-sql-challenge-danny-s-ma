@@ -1,14 +1,16 @@
-Businnes Task
+**Businnes Task**
 
 Danny is expanding his new Pizza Empire and at the same time, he wants to Uberize it, so Pizza Runner was launched!
 
 Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers.
 
-Entity Relationship Diagram
+**Entity Relationship Diagram**
+
 ![image](https://user-images.githubusercontent.com/57255039/192542953-e67d260f-6787-4c9d-8fd2-f8ce43309bf6.png)
 
-Case Study Questions
-A. Pizza Metrics
+**Case Study Questions**
+
+**A. Pizza Metrics**
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -20,7 +22,7 @@ A. Pizza Metrics
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week?
 
-B. Runner and Customer Experience
+**B. Runner and Customer Experience**
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
 3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
